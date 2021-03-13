@@ -14,6 +14,13 @@
 			<organization>Faculty of Informatics, University of Debrecen</organization>
 			<organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
 		</developer>
+		<developer>
+			<id>szakacsagi</id>
+			<name>Ágnes Szakács</name>
+			<email>szakacs.agi21@gmail.com</email>
+			<organization>Faculty of Informatics, University of Debrecen</organization>
+			<organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
+		</developer>
 	</developers>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
